@@ -25,11 +25,11 @@ You can download the dataset [here] (https://www.kaggle.com/datasets/vijayuv/onl
 # Tecniques Used
 
 1. Data Ingestion
-   Tool: PySpark (spark.read)
+Tool: PySpark (spark.read)
 
-   Purpose: To load large-scale data efficiently from a CSV file into a Spark DataFrame.
+Purpose: To load large-scale data efficiently from a CSV file into a Spark DataFrame.
 
-   Techniques Used:
+Techniques Used:
 
 Schema inference with inferSchema=True
 
