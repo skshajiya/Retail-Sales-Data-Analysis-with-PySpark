@@ -8,7 +8,7 @@
 
 -[Techniques Used](#Techniiques-Used)
 
--[Implementation](#Implementation)
+-[Implemented](#Implemented)
 
 -[About the Project](#AbouttheProject)
 
@@ -86,7 +86,7 @@ year(), month() – Extract temporal features
 
 * * *
 
-# Implementation:
+# Implemented:
 
 Top 10 selling products by quantity
 
